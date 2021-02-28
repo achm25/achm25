@@ -5,7 +5,7 @@
   <img src="https://www.craftbrewingbusiness.com/wp-content/uploads/2020/06/mask-smiley-face.jpg"></img>
 </p>
 <h3 align="center">#Stay at Home and Enjoy Coding</h3>
-<h3 align="center">I love you Github, check <a href="https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/">this</a> out</h3>
+
 
 # Alireza ChaghaMirzaei 
 
@@ -18,7 +18,7 @@ I am a Computer Engineering  Student at Shahid Beheshti University!
 
 ## Languages & Technologies
 
-[![](https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png)](https://flutter.dev/)
+[![](https://res.cloudinary.com/teepublic/image/private/s--lxNXHPN3--/c_fit,g_north_west,h_840,w_679/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1585726530/production/designs/8796655_0.jpg)](https://flutter.dev/)
 [![](https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg)](https://dart.dev/)
 
 ## Contact Me
