@@ -16,7 +16,7 @@ I am a Computer Engineering  Student at Shahid Beheshti University!
 
 ## Languages & Technologies
 
-[![](https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png)](https://flutter.dev/)
+[![](https://flutter.dev/images/flutter-mono-81x100.png)](https://flutter.dev/)
 [![](https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg)](https://dart.dev/)
 
 ## Contact Me
