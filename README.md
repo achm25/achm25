@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-<p align="center">
-  <img src="https://www.craftbrewingbusiness.com/wp-content/uploads/2020/06/mask-smiley-face.jpg"></img>
-</p>
-<h3 align="center">#Stay at Home and Enjoy Coding</h3>
+
 
 
 # Alireza ChaghaMirzaei 
