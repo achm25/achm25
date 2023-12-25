@@ -8,7 +8,7 @@
 
 ## Introduction
 
-I am a Computer Engineering  Student at Shahid Beheshti University! 
+I am a Master's Software Engineer Student at Kingston University London! 
 
 
 ## Languages & Technologies
