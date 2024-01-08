@@ -57,7 +57,7 @@ and enjoy making a smooth experience for the end-user.
       </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://www.datocms-assets.com/205/1648820117-nextjs.svg"
+        src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"
         width="48"
         height="48"
         alt="Vue js"
@@ -66,7 +66,7 @@ and enjoy making a smooth experience for the end-user.
       </td>  
     <td align="center" height="108" width="108">
       <img
-        src="https://avatars.githubusercontent.com/u/67109815"
+        src="[https://avatars.githubusercontent.com/u/67109815](https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc)"
         width="68"
         height="68"
         alt="Nuxt js"
@@ -75,7 +75,7 @@ and enjoy making a smooth experience for the end-user.
   </td> 
    <td align="center" height="108" width="108">
   <img
-    src="https://mui.com/static/logo.png"
+    src="[https://mui.com/static/logo.png](https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png)"
     width="48"
     height="48"
     alt="Flutter"
@@ -101,12 +101,12 @@ and enjoy making a smooth experience for the end-user.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4"
         width="48"
         height="48"
-        alt="Express.js"
+        alt="Django"
       />
-      <br /><strong>Express.js</strong>
+      <br /><strong>Django</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
