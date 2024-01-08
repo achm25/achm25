@@ -60,7 +60,7 @@ and enjoy making a smooth experience for the end-user.
         src="https://www.datocms-assets.com/205/1648820117-nextjs.svg"
         width="48"
         height="48"
-        alt="Next.js"
+        alt="Vue js"
       />
       <br /><strong>Vue js</strong>
       </td>  
@@ -69,7 +69,7 @@ and enjoy making a smooth experience for the end-user.
         src="https://avatars.githubusercontent.com/u/67109815"
         width="68"
         height="68"
-        alt="Vue js"
+        alt="Nuxt js"
       />
       <br /><strong>Nuxt js</strong>
   </td> 
@@ -78,9 +78,9 @@ and enjoy making a smooth experience for the end-user.
     src="https://mui.com/static/logo.png"
     width="48"
     height="48"
-    alt="Nuxt js"
+    alt="Flutter"
   />
-  <br /><strong>MaterialUI</strong>
+  <br /><strong>Flutter</strong>
   </td> 
   </tr>
 </table>
