@@ -62,23 +62,23 @@ and enjoy making a smooth experience for the end-user.
         height="48"
         alt="Next.js"
       />
-      <br /><strong>Next.js</strong>
+      <br /><strong>Vue js</strong>
       </td>  
     <td align="center" height="108" width="108">
       <img
         src="https://avatars.githubusercontent.com/u/67109815"
         width="68"
         height="68"
-        alt="TailwindCSS"
+        alt="Vue js"
       />
-      <br /><strong>TailwindCSS</strong>
+      <br /><strong>Nuxt js</strong>
   </td> 
    <td align="center" height="108" width="108">
   <img
     src="https://mui.com/static/logo.png"
     width="48"
     height="48"
-    alt="MaterialUI"
+    alt="Nuxt js"
   />
   <br /><strong>MaterialUI</strong>
   </td> 
