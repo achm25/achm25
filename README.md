@@ -153,12 +153,42 @@ and enjoy making a smooth experience for the end-user.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"
         width="48"
         height="48"
         alt="Jest"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>AWS</strong>
+    </td>
+          <td align="center" height="108" width="108">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br /><strong>Figma</strong>
+    </td>
+          </td>
+          <td align="center" height="108" width="108">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+        </td>
+          </td>
+          <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"
+        width="48"
+        height="48"
+        alt="Linux"
+      />
+      <br /><strong>Linux</strong>
     </td>
   </tr>
 </table>
