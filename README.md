@@ -1,46 +1,164 @@
-### Hi there 👋
+# 👋 Hey there
+
+<div align="justify">
+    My name is Alireza and I'm a front-end developer with a passion for solving new challenges and creating customer-centric services. I love learning new technologies
+and enjoy making a smooth experience for the end-user.
+  You can follow my Linkedin, Medium and Leetcode to be in touch.
+</div>
+
+# 🔧 Front End Technologies
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+      </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+      </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React.js</strong>
+      </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://www.datocms-assets.com/205/1648820117-nextjs.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
+      </td>  
+    <td align="center" height="108" width="108">
+      <img
+        src="https://avatars.githubusercontent.com/u/67109815"
+        width="68"
+        height="68"
+        alt="TailwindCSS"
+      />
+      <br /><strong>TailwindCSS</strong>
+  </td> 
+   <td align="center" height="108" width="108">
+  <img
+    src="https://mui.com/static/logo.png"
+    width="48"
+    height="48"
+    alt="MaterialUI"
+  />
+  <br /><strong>MaterialUI</strong>
+  </td> 
+  </tr>
+</table>
 
 
+# 🔧 Back End Technologies
 
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express.js"
+      />
+      <br /><strong>Express.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://docs.nestjs.com/assets/logo-small.svg"
+        width="48"
+        height="48"
+        alt="Nest.js"
+      />
+      <br /><strong>Nest.js</strong>
+    </td>  
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+      </td>
+    
+  </tr>
+</table>
 
-
-# Alireza ChaghaMirzaei 
-
-My leet code profile: https://leetcode.com/alichagha25/
-
-## Introduction
-
-I am a Master's Software Engineer Student at Kingston University London! 
-
-
-## Languages & Technologies
-
-[![](https://flutter.dev/images/flutter-mono-81x100.png)](https://flutter.dev/)
-[![](https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg)](https://dart.dev/)
-
-## Contact Me
-
-[![](https://img.shields.io/badge/-alirezamirzaei25@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:alirezamirzaei25@gmail.com)
-
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
-</p>-->
-
-
-
-
-
-<!--
-**achm25/achm25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔧 Others
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+      <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
+    </td>
+  </tr>
+</table>
